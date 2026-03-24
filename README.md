@@ -1,5 +1,5 @@
 
-# File Upload API
+# File Upload API 1
 
 > [!TIP]
 > To deploy this project using **GUI-based flow**, navigate to [console](https://console.stacktape.com/create-new-project/git-project-using-console?name=my-stacktape-app&repositoryType=public&repositoryUrl=https://github.com/stacktape/starter-file-upload-api)
